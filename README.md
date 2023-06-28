@@ -61,7 +61,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployed Link
 
-![Deployed link](https://pwa-texteditor-app-f0a03820e591.herokuapp.com/)
+[The link for my deployed application can viewed here](https://pwa-texteditor-app-f0a03820e591.herokuapp.com/)
 
 ## Usage
 
@@ -77,7 +77,10 @@ Open the terminal `npm run start`
 
 The following are some of the screenshots
 
-![JATE]("./images/db.PNG")
+![Index](./images/index.PNG)
+![Database](./images/db.PNG)
+![Manifest](./images/manifest.PNG)
+![Service worker](./images/sw.PNG)
 
 ## Resources
 
