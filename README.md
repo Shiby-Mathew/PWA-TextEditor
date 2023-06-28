@@ -9,6 +9,17 @@ are useful for storing and retrieving data. App used a package called `idb`, whi
 wrapper around the IndexedDB API and the application works on offline.
 ```
 
+## Table Contents
+
+Description
+User Story
+Acceptance Criteria
+Deployed Link
+Usage
+Installation
+ScreenShots
+Resources
+
 ## User Story
 
 ```md
@@ -57,12 +68,16 @@ THEN I should have proper build scripts for a webpack application
 Open the terminal `npm run start`
 
 ## Installation
- `git clone` the 
+
+- `git clone` the repo to the local machine.
+- `npm install` to install all the dependencies
+- `npm run star` to run npm run build and server and node server.js
+
 ## ScreenShots
 
-The following screenshots shows some of the application's routes for user,thoughts,reaction to thoughts and friends to user being tested in Insomnia:
+The following are some of the screenshots
 
-![All routes.](./utils/images/Allroutes.png)
+![JATE]()
 
 ## Resources
 
