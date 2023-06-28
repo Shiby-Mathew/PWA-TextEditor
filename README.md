@@ -11,14 +11,15 @@ wrapper around the IndexedDB API and the application works on offline.
 
 ## Table Contents
 
-Description
-User Story
-Acceptance Criteria
-Deployed Link
-Usage
-Installation
-ScreenShots
-Resources
+- [Description](#description)
+- [User Story](#userstory)
+- [Acceptance Criteria](#AcceptanceCriteria)
+
+  Deployed Link
+  Usage
+  Installation
+  ScreenShots
+  Resources
 
 ## User Story
 
@@ -65,7 +66,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
-Open the terminal `npm run start`
+Open the terminal and run this code `npm run start`
 
 ## Installation
 
@@ -78,8 +79,17 @@ Open the terminal `npm run start`
 The following are some of the screenshots
 
 ![Index](./images/index.PNG)
+
+IndexDB
+
 ![Database](./images/db.PNG)
+
+Manifest
+
 ![Manifest](./images/manifest.PNG)
+
+Service Worker
+
 ![Service worker](./images/sw.PNG)
 
 ## Resources
