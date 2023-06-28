@@ -12,14 +12,13 @@ wrapper around the IndexedDB API and the application works on offline.
 ## Table Contents
 
 - [Description](#description)
-- [User Story](User)
-- [Acceptance Criteria](#Acceptance)
-
-  Deployed Link
-  Usage
-  Installation
-  ScreenShots
-  Resources
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Deployed Link](#deployed-link)
+- [Usage](#Usage)
+- [Installation](#Installation)
+- [ScreenShots](#ScreenShots)
+- [Resources](#Resources)
 
 ## User Story
 
