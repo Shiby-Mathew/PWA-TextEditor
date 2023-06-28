@@ -29,7 +29,7 @@ export const putDb = async (content) => {
 
   // Get confirmation of the request.
   const result = await request;
-  console.log("jate data saved to the database", result.value);
+  console.log("jate data saved to the database", result);
 };
 
 // TODO: Add logic for a method that gets all the content from the database

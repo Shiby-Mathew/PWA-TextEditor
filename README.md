@@ -2,10 +2,12 @@
 
 ## Description
 
+```
 This is a text editor single-page application that runs in a browser, that meets the PWA criteria.
 The start code was already given, added some features like data persistence techniques, methods that
 are useful for storing and retrieving data. App used a package called `idb`, which is a lightweight
 wrapper around the IndexedDB API and the application works on offline.
+```
 
 ## User Story
 
@@ -45,3 +47,23 @@ pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+## Deployed Link
+
+![Deployed link](https://pwa-texteditor-app-f0a03820e591.herokuapp.com/)
+
+## Usage
+
+Open the terminal `npm run start`
+
+## Installation
+ `git clone` the 
+## ScreenShots
+
+The following screenshots shows some of the application's routes for user,thoughts,reaction to thoughts and friends to user being tested in Insomnia:
+
+![All routes.](./utils/images/Allroutes.png)
+
+## Resources
+
+- Course Materials
