@@ -77,7 +77,7 @@ Open the terminal `npm run start`
 
 The following are some of the screenshots
 
-![JATE]()
+![JATE]("./images/db.PNG")
 
 ## Resources
 
