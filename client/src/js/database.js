@@ -12,8 +12,6 @@ const initdb = async () =>
     },
   });
 
-// TODO: Add logic to a method that accepts some content and adds it to the database
-
 // Export a function we will use to PUT to the database.
 export const putDb = async (content) => {
   console.log("PUT to the database");
@@ -32,7 +30,6 @@ export const putDb = async (content) => {
   console.log("jate data saved to the database", result);
 };
 
-// TODO: Add logic for a method that gets all the content from the database
 //Export const getDb = async () => console.error("getDb not implemented");
 export const getDb = async () => {
   console.log("GET from the database");

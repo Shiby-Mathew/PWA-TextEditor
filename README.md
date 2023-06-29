@@ -3,10 +3,10 @@
 ## Description
 
 ```
-This is a text editor single-page application that runs in a browser, that meets the PWA criteria.
-The start code was already given, added some features like data persistence techniques, methods that
+This is a text editor for single-page application, running in a browser and meets the PWA criteria.
+The starter code was already given, but added some features like data persistence, methods that
 are useful for storing and retrieving data. App used a package called `idb`, which is a lightweight
-wrapper around the IndexedDB API and the application works on offline.
+wrapper around the IndexedDB API and the application works offline.
 ```
 
 ## Table Contents
@@ -79,7 +79,7 @@ The following are some of the screenshots
 
 ![Index](./images/index.PNG)
 
-IndexDB
+IndexedDB
 
 ![Database](./images/db.PNG)
 
@@ -87,7 +87,7 @@ Manifest
 
 ![Manifest](./images/manifest.PNG)
 
-Service Worker
+Service Workers
 
 ![Service worker](./images/sw.PNG)
 
